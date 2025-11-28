@@ -1,0 +1,6 @@
+{
+  "TemplatePath": "xray-example.yaml",
+  "StackName": "xray-sample",
+  "Capabilities": ["CAPABILITY_IAM","CAPABILITY_NAMED_IAM"],
+  "Parameters": {}
+}
